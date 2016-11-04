@@ -1,1 +1,1 @@
-bot
+echo ('bot')
